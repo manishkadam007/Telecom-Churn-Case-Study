@@ -14,13 +14,14 @@
     
     
     So, here’s what the data frame churn_data looks like:
-     ![alt text](https://github.com/manishkadam007/Telecom-Churn-Case-Study/blob/master/Data/Churn.png)
+   
+   ![alt text](https://github.com/manishkadam007/Telecom-Churn-Case-Study/blob/master/Data/Churn.png)
      
     Also, here’s the data frame customer_data:
-     ![alt text](https://github.com/manishkadam007/Telecom-Churn-Case-Study/blob/master/Data/customer%2Bdata.png)
+   ![alt text](https://github.com/manishkadam007/Telecom-Churn-Case-Study/blob/master/Data/customer%2Bdata.png)
      
     Lastly, here’s the data frame internet_data:
-     ![alt text](https://github.com/manishkadam007/Telecom-Churn-Case-Study/blob/master/Data/Internet%2BData.png)
+   ![alt text](https://github.com/manishkadam007/Telecom-Churn-Case-Study/blob/master/Data/Internet%2BData.png)
      
     Now, as you can clearly see, the first 5 customer IDs are exactly the same for each of these data frames.
     Hence, using the column customer ID, you can collate or merge the data into a single data frame. 
